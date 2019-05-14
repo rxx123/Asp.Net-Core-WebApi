@@ -1,0 +1,2 @@
+2019-05-14 10:25:24.6857|INFO|CoreBackend.Api.Controllers.ProductController|Hello World Info
+2019-05-14 10:25:24.9562|DEBUG|CoreBackend.Api.Controllers.ProductController|Hello World Debug

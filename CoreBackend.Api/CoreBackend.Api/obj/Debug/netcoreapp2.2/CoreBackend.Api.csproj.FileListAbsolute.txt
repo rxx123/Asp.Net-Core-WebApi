@@ -1,0 +1,15 @@
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\NLog.config
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\CoreBackend.Api.deps.json
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\CoreBackend.Api.runtimeconfig.json
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\CoreBackend.Api.runtimeconfig.dev.json
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\CoreBackend.Api.dll
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\bin\Debug\netcoreapp2.2\CoreBackend.Api.pdb
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.csprojAssemblyReference.cache
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.csproj.CoreCompileInputs.cache
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.RazorAssemblyInfo.cache
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.RazorAssemblyInfo.cs
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.AssemblyInfoInputs.cache
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.AssemblyInfo.cs
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.RazorTargetAssemblyInfo.cache
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.dll
+F:\rxxGit\Asp.Net-Core-WebApi\CoreBackend.Api\CoreBackend.Api\obj\Debug\netcoreapp2.2\CoreBackend.Api.pdb

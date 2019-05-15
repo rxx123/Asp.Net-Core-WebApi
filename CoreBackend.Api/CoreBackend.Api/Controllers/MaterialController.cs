@@ -7,6 +7,7 @@ using CoreBackend.Api.Dtos;
 using CoreBackend.Api.Repositories;
 using CoreBackend.Api.Services;
 using Microsoft.AspNetCore.Mvc;
+using NLog;
 
 namespace CoreBackend.Api.Controllers
 {
@@ -28,7 +29,7 @@ namespace CoreBackend.Api.Controllers
             //    return NotFound();
             //}
             //return Ok(product.Materials);
-
+            
             var product = _productRepository.ProductExist(productId);
             if (!product)
             {

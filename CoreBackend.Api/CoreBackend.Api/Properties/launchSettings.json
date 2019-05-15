@@ -19,7 +19,7 @@
     "CoreBackend.Api": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "http://localhost:50987/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

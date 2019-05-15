@@ -1,2 +1,6 @@
 2019-05-14 10:25:24.6857|INFO|CoreBackend.Api.Controllers.ProductController|Hello World Info
 2019-05-14 10:25:24.9562|DEBUG|CoreBackend.Api.Controllers.ProductController|Hello World Debug
+2019-05-14 16:28:09.0596|DEBUG|CoreBackend.Api.NLogger|Debug Message
+2019-05-14 16:28:09.1191|INFO|CoreBackend.Api.NLogger|Info Message
+2019-05-14 16:28:09.1534|ERROR|CoreBackend.Api.NLogger|Error Message
+2019-05-14 16:28:09.1615|FATAL|CoreBackend.Api.NLogger|Fatal Message

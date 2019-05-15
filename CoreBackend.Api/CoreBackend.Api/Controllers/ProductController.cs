@@ -10,17 +10,23 @@ using CoreBackend.Api.Services;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using NLog;
 
 namespace CoreBackend.Api.Controllers
 {
     [Route("api/[controller]")]
     public class ProductController : Controller
     {
+        private log4net.ILog log = log4net.LogManager.GetLogger(Startup.repository.Name, typeof(ValuesController));
         private readonly IProductRepository _productRepository;
         public ProductController(IProductRepository productRepository)
         {
             _productRepository = productRepository;
         }
+        /// <summary>
+        ///  这是一个api方法的注释
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IActionResult GetProducts()
         {
@@ -28,7 +34,12 @@ namespace CoreBackend.Api.Controllers
             //logger.Info("Hello World Info");
             //logger.Debug("Hello World Debug");
             //return Ok(ProductService.Current.Products);
-
+            log.Info($"ValuesController-Get id:");
+            NLogger.logger.Trace("Trace Message");
+            NLogger.logger.Debug("Debug Message");
+            NLogger.logger.Info("Info Message");
+            NLogger.logger.Error("Error Message");
+            NLogger.logger.Fatal("Fatal Message");
             var products = _productRepository.GetProducts();
             var results = Mapper.Map<IEnumerable<ProductWithoutMaterialDto>>(products);
             return Ok(results);
